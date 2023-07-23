@@ -20,9 +20,9 @@ TibetSegEYE是一款针对藏文的开源分词小工具，本人谨以此工具
 
 
 *** save_result：指向本项目模型 目前提供Segbase下载。 
-链接：https://pan.baidu.com/s/1j_60cDWVlfryikaP-1Nvbw 提取码：19pe
-*** model_path：指向预训练模型 可使用Tibet等
-*** supvoc：指向支持文件
+链接：https://pan.baidu.com/s/1j_60cDWVlfryikaP-1Nvbw 提取码：19pe。
+*** model_path：指向预训练模型 可使用Tibet等。
+*** supvoc：指向support。
 *** slide_size：滑动窗口大小。降低该数值可以极大幅度提高分词速度，但可能会损失精确度。推荐设置为6以上。
 
 
@@ -35,7 +35,7 @@ transformers==4.28.1
 
 Model description:
 segbase 训练自MLWS2021数据集。感谢高定国老师等人的付出，提供该数据集。
-后续会补充其他模型
+后续会补充其他模型。
 
 
 *update 2023.7.22：修正了一些参数，增加滑动窗口调节及多进程处理，使得该工具处理速度提高3倍以上。
