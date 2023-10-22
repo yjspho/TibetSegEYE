@@ -34,12 +34,10 @@ transformers==4.28.1
 
 
 Model description:
-segbase 训练自MLWS2021数据集。感谢高定国老师等人的付出，提供该数据集。
+segbase 训练自MLWS2021数据集。
 后续会补充其他模型。
 
 
 *update 2023.7.22：修正了一些参数，增加滑动窗口调节及多进程处理，使得该工具处理速度提高3倍以上。
 
-By JieYang
-yjspho@utibet.edu.cn
-Tibet University,School of Information Science and Technology.
+
