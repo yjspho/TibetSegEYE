@@ -18,7 +18,6 @@ TibetSegEYE是一款针对藏文的开源分词小工具，本人谨以此工具
 模型设置：
 
 
-
 *** save_result：指向本项目模型 目前提供Segbase下载。 
 链接：https://pan.baidu.com/s/1j_60cDWVlfryikaP-1Nvbw 提取码：19pe。
 *** model_path：指向预训练模型 可使用Tibert等。
@@ -29,7 +28,6 @@ TibetSegEYE是一款针对藏文的开源分词小工具，本人谨以此工具
 Development environment:
 Python==3.10
 torch==1.13.1+cu117
-TorchCRF==1.1.0
 transformers==4.28.1
 
 
