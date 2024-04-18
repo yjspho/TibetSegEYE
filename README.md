@@ -1,4 +1,4 @@
-# TibetSegEYE
+****** TibetSegEYE ******
 
 感谢使用TibetSegEYE！
 
@@ -38,4 +38,6 @@ segbase 训练自MLWS2021数据集。
 
 *update 2023.7.22：修正了一些参数，增加滑动窗口调节及多进程处理，使得该工具处理速度提高3倍以上。
 
+*update 2024.4.10：修复了一些BUG，调整了算法逻辑，并再次提高处理性能。
 
+E：yjspho@utibet.edu.cn
