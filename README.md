@@ -51,4 +51,4 @@ segbase 训练自MLWS2021数据集。
 
 *update 2024.7.18：更新V2。
 
-E：yjspho@utibet.edu.cn
+E：yjspho@utibet.edu.cn(已毕业，废弃)  tpcwy08@126.com
