@@ -26,7 +26,8 @@ TibetSegEYE是一款针对藏文的开源分词小工具，本人谨以此工具
 *** save_result：指向本项目模型 目前提供Segbase及V2下载。 
 链接：https://pan.baidu.com/s/1j_60cDWVlfryikaP-1Nvbw 提取码：19pe。
 
-V2:链接:https://pan.baidu.com/s/1K738XIDss5B_IDZM9vCGAw?pwd=hg9g 提取码:hg9g
+V2:
+链接: https://pan.baidu.com/s/1qT50GyhjIf8AG4RDut-FrA 提取码: ye4w 
 
 
 *** model_path：指向预训练模型 可使用Tibert等。
